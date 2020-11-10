@@ -1,5 +1,3 @@
-# mobi7
-
 # Instructions to run this application
 
 *** Make sure JDK 1.8 is installed and configured ***
