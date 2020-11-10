@@ -11,7 +11,7 @@ Esta aplicação está disponível no git:
 
 https://github.com/marceloboah/mobi7
 
-1)Para executar a aplicação basta
+1) Para executar a aplicação basta
 abrir o prompt de comando e acessar dentro da pasta target do projeto a aplicação mobi-api em arquivo  jar.
 
 \crud-spring-boot-modified\target\mobi-api-1.0.0-SNAPSHOT.jar
@@ -21,13 +21,13 @@ Atenção para mudanças no nome do arquivo referente a alterções na versão.
 Para encerrar a aplicação efetue ctrl+c no prompt em execução.
 
 
-2)Antes de iniciar a execução do arquivo crie uma pasta data na raiz:
+2) Antes de iniciar a execução do arquivo crie uma pasta data na raiz:
 
 C:\data
 
 Em seguida coloque os arquivos de leitura csv dentro da pasta.
 
-3)Esta aplicação funciona com um banco de dados em memória do tipo H2.
+3) Esta aplicação funciona com um banco de dados em memória do tipo H2.
 
 Foi escolhida a opção com escrita em arquivo.
 
