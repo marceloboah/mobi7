@@ -19,7 +19,7 @@ Atenção para mudanças no nome do arquivo referente a alterções na versão.
 Para encerrar a aplicação efetue ctrl+c no prompt em execução.
 
 
-2)Antes de iniciar a execução do arquivo crie uma pasta data na raiz de C:
+2)Antes de iniciar a execução do arquivo crie uma pasta data na raiz:
 C:\data
 Em seguida coloque os arquivos de leitura csv dentro da pasta.
 
